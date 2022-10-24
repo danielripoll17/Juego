@@ -26,4 +26,5 @@ switch(pantalla){
 }
 void mousePressed(){
   bini.apreta();
+  //inicio
 }
